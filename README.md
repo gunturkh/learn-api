@@ -1,2 +1,2 @@
 # learn-api
-- [Github Followers](https://github.com/gunturkh/learn-api/github-follower.html)
+- [Github Followers](https://gunturkh.github.io/learn-api/github-follower.html)
